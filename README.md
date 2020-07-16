@@ -32,7 +32,7 @@ From the src directory run the following commands
 Documented report is available at `docs/ENPM_673_project_6.pdf`
 
 <p align="center">
-<img src="images/Sign_recog-large.gif" alt="correspondences" width="480">
+<img src="images/Sign_recog-large.gif" alt="correspondences" width="640">
 </p>
 <p align="center">
 <em>Sign Recognition Results</em>
