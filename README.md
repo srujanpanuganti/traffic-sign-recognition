@@ -2,10 +2,10 @@
 This project is an implementation of Traffic Sign Recognition
 
 <p align="center">
-<img src="images/a.gif" alt="visual_odom" width="480">
+<img src="images/pic02209.jpg" alt="sign" width="480">
 </p>
 <p align="center">
-<em>Visual Odometry Demo, Source: gfycat</em>
+<em>Traffic Sign Tecognition</em>
 </p>
 
 
@@ -20,9 +20,10 @@ https://drive.google.com/drive/u/0/folders/0B8DbLKogb5ktTW5UeWd1ZUxibDA
 * Oxford Dataset
 
 ## Executing the project
-From the src directory run the following command
+From the src directory run the following commands
 
-`src/python3 visual_odom.py` 
+`src/python3 detection.py`
+`src/python3 recognize.py `
 
 
 ## Results
@@ -33,7 +34,7 @@ Documented report is available at `docs/ENPM_673_project_6.pdf`
 <img src="images/Sign_recog-large.gif" alt="correspondences" width="480">
 </p>
 <p align="center">
-<em>Point correspondences between successive frames</em>
+<em>Sign Recognition Results</em>
 </p>
 
 
