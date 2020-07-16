@@ -2,7 +2,7 @@
 This project is an implementation of Traffic Sign Recognition
 
 <p align="center">
-<img src="images/pic02209.jpg" alt="sign" width="480">
+<img src="images/pic02209.jpg" alt="sign" width="360">
 </p>
 <p align="center">
 <em>Traffic Sign Tecognition</em>
@@ -23,6 +23,7 @@ https://drive.google.com/drive/u/0/folders/0B8DbLKogb5ktTW5UeWd1ZUxibDA
 From the src directory run the following commands
 
 `src/python3 detection.py`
+
 `src/python3 recognize.py `
 
 
