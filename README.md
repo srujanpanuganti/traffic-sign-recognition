@@ -30,7 +30,7 @@ From the src directory run the following command
 Documented report is available at `docs/ENPM_673_project_6.pdf`
 
 <p align="center">
-<img src="Images/Sign_recog-large.gif" alt="correspondences" width="480">
+<img src="images/Sign_recog-large.gif" alt="correspondences" width="480">
 </p>
 <p align="center">
 <em>Point correspondences between successive frames</em>
